@@ -1,6 +1,6 @@
 # Tic-Tac-Toe with Minimax AI
 
-Python Tic-Tac-Toe with an unbeatable AI. Built step-by-step as a beginner CS project.
+Python Tic-Tac-Toe with a Minimax AI. Built step-by-step as a beginner CS project.
 
 ## Run
 
